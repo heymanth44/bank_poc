@@ -1,0 +1,14 @@
+{
+    "tb_branch_performance":["tb_branch","tb_financial_statement","tb_risk_weighted_asset","tb_feedback","tb_customer","tb_account"],
+    "tb_branch_comparison":["tb_customer","tb_account"],
+    "tb_financial_statement":"vw_financial_statement",
+    "tb_complaint":"vw_complaint",
+    "tb_feedback":"vw_feedback",
+    "tb_risk_weighted_asset":"vw_risk_weighted_asset",
+    "tb_transaction":"vw_transaction",
+    "tb_branch":"vw_branch",
+    "tb_employee":"vw_employee",
+    "tb_customer":"vw_customer",
+    "tb_account":"vw_account"
+
+}
