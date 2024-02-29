@@ -1,5 +1,0 @@
-postgress_details:
-  host: 'postgress-instance.cbhcjukrp6zc.ap-south-1.rds.amazonaws.com'
-  port_no: '5432'
-  username: 'postgres'
-  password: 'postgres_1010'
