@@ -186,8 +186,8 @@ writing_dataframe(tb_financial_statement, "vw_branch_financial_statement")
 
 writing_dataframe(tb_risk_weighted_asset, curated_data["tb_risk_weighted_asset"])
 writing_dataframe(tb_transaction, "vw_customer_transaction")
-writing_dataframe(fin_df, "tb_branch_performance")
-writing_dataframe(tb_branch_comparison, "tb_branch_comparison")
+# writing_dataframe(fin_df, "tb_branch_performance")
+# writing_dataframe(tb_branch_comparison, "tb_branch_comparison")
 
 fin_df.to_csv("output.csv")
 
