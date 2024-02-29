@@ -1,0 +1,10 @@
+{
+    "tb_branch_employee":"tb_branch_employee",
+    "tb_branch_financial_statement":"tb_branch_financial_statement",
+    "tb_complaint":"tb_complaint",
+    "tb_customer_account":"tb_customer_account",
+    "tb_customer_transaction":"tb_customer_transaction",
+    "tb_feedback":"tb_feedback",
+    "tb_risk_weighted_asset":"tb_risk_weighted_asset"
+
+}
